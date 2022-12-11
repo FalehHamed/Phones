@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Phones</string>
+    <string name="Phone1">Iphone</string>
+    <string name="Phone2">Samsung</string>
+    <string name="Phone3">Huawei</string>
+    <string name="Phone4">Motorla</string>
+
+</resources>
